@@ -1,0 +1,11 @@
+{
+  "name": "jsphh-tools",
+  "version": "1.0.0",
+  "description": "Utility skills for Claude Code — Google Cloud CLI, PDF reading, and conversation management.",
+  "author": "jsphh7124",
+  "skills": [
+    "gogcli",
+    "pdf-read-python",
+    "conversation-purger"
+  ]
+}
