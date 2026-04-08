@@ -1,6 +1,6 @@
 ---
 name: pdf-read-python
-description: PDF読み込みの正しい方法。ReadツールでPDFを直接読むとエラーになるため、必ずPythonのpdfplumberライブラリを使用。インストール方法、基本的な使い方、ページ単位でのテキスト抽出を含む。PDF読み込み時に使用。
+description: Read PDF files using Python pdfplumber — the correct method for Claude Code. Use when reading any PDF file; never use the Read tool directly on PDFs as it is unreliable for academic papers.
 ---
 
 # PDF読み込み（Python必須）
